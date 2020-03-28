@@ -24,6 +24,10 @@ Simple Rock Paper Scissors game on Python 3 console.
   I used random library to randomize computer choice.
   The user types his option, a logical test is performed to know the result and what should be printed on screen. If the user inputs one of the key-words (```stopOptions = ["Parar", "Encerrar","Finalizar", "Pare", "Fim"]```) choosed to stop the game, the game is stopped and the final results is shown.
   
+  <h3 align="center">
+  	<img src="./gameexample.svg" alt="Game" title="Game" width="50%"/>
+  </h3>
+  
 ### :bulb: Easter Eggs
   The game has some easter eggs from the tv show "The Big Bang Theory". The user can also choose "Lizard" or "Spock": ``` possibleChoices = [rock, paper, scissors, lizard, spock] ```
   However, the computer cannot choose the easter eggs objects, so interactions between "Lizard" and "Spock" are not available.
