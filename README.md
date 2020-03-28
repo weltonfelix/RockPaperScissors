@@ -1,8 +1,8 @@
-# Pedra, Papel e Tesoura
-Aplicação simples que permite o usuário jogar "Pedra, papel e tesoura" no console do Python 3.
+# Rock Paper Scissors
+Simple Rock Paper Scissors game on Python 3 console.
 
-## Como funciona?
-  Usei a biblioteca random para randomizar a escolha do computador.
+## How it works?
+  I used random library to randomize computer choice.
   O usuário digita sua opção que é convertida e adaptada, após isso acontece um teste lógico para saber o resultado e p que deve ser escrito na tela. Se o usuário digitar alguma das palavras que estão selecionadas como palavras-chave (```stopOptions = ["Parar", "Encerrar","Finalizar", "Pare", "Fim"]```)para a finalização do programa  o programa para é exibido o resultado junto com a pontuaçõ geral.
   
 ### Easter Eggs
