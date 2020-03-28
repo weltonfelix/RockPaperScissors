@@ -1,15 +1,34 @@
 # Rock Paper Scissors
 Simple Rock Paper Scissors game on Python 3 console.
 
-## How it works?
+<p align="center">
+  <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/RockPaperScissors?color=%2304D361">
+
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/weltonfelix/RockPaperScissors">
+	
+  <a href="https://www.github.com/weltonfelix">
+    <img alt="Made by Welton" src="https://img.shields.io/badge/Made%20by-Welton-%2304D361">
+  </a>
+
+  <a href="https://github.com/weltonfelix/RockPaperScissors/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/weltonfelix/RockPaperScissors">
+  </a>
+
+  <a href="https://github.com/weltonfelix/omnistack11/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/weltonfelix/RockPaperScissors">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+## :wrench: How it works?
   I used random library to randomize computer choice.
   The user types his option, a logical test is performed to know the result and what should be printed on screen. If the user inputs one of the key-words (```stopOptions = ["Parar", "Encerrar","Finalizar", "Pare", "Fim"]```) choosed to stop the game, the game is stopped and the final results is shown.
   
-### Easter Eggs
+### :bulb: Easter Eggs
   The game has some easter eggs from the tv show "The Big Bang Theory". The user can also choose "Lizard" or "Spock": ``` possibleChoices = [rock, paper, scissors, lizard, spock] ```
   However, the computer cannot choose the easter eggs objects, so interactions between "Lizard" and "Spock" are not available.
   
-## Rules:
+## :notebook: Rules:
   1. Equal objects tie.
   2. Diferent objects:
      1. Rock
@@ -37,3 +56,25 @@ Simple Rock Paper Scissors game on Python 3 console.
           * Is disproved by the _Paper_ **(-)**
           * Smashes the _Scissors_ **(+)**
           * ~~Is poisoned by the _Lizard_ **(-)**~~ *(As the computer cannot choose easter egg options, this option is unavailable)*
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/weltonfelix/RockPaperScissors/issues).
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+
+---
+
+Made with ♥ by Welton Felix :wave: [Get in touch!](https://github.com/weltonfelix)
