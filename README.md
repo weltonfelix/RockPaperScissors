@@ -14,7 +14,7 @@ Simple Rock Paper Scissors game on Python 3 console.
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/weltonfelix/RockPaperScissors">
   </a>
 
-  <a href="https://github.com/weltonfelix/omnistack11/issues">
+  <a href="https://github.com/weltonfelix/RockPaperScissors/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/weltonfelix/RockPaperScissors">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -81,4 +81,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Welton Felix :wave: [Get in touch!](https://github.com/weltonfelix)
+Made with ♥ by Welton Felix :wave: [Get in touch!](mailto:contato.weltonf@gmail.com)
